@@ -4,5 +4,5 @@
 
 You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
 
-### The goal of this project is to create a Tribute Page
+### The goal of this project is to create a Tribute Page for freeCodeCamp
 
