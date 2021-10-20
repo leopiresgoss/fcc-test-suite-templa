@@ -1,9 +1,10 @@
 body {
-    height: 100vh;
+    height: 100%;
     margin: 0;
-
     display: flex;
     justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 50px;
 }
 
 #title {
@@ -24,5 +25,22 @@ body {
     max-width: 100%;
 }
 #img-caption {
-    margin: 8px;
+  font-size: 10px;
+  margin: 8px;
+}
+#timeline-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#timeline-div span{
+  font-weight: bold;
+}
+#timeline-div ul li {
+  padding: 5px 0;
+}
+
+#tribute-info{
+  text-align: center;
 }
